@@ -1,0 +1,2 @@
+# ReduxCoreData
+Redux + OutsideManagement
